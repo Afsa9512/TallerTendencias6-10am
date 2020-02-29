@@ -30,3 +30,5 @@ while not is_convergence(a, b, a_old, b_old, convergence) \
 ~~~
 
 > Cita
+
+![Machine-Learning](Imagenes/moto.jpg "Kawasaki Z1000")
